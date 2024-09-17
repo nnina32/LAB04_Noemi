@@ -1,0 +1,2 @@
+¿Cómo elimino una rama creada en git?
+Para eliminar una rama creada en Git se usa este comando "git branch -d nombre-de-la-rama".
